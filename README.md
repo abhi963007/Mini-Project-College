@@ -29,9 +29,9 @@
 
 ## 🛠 Technologies Used
 
-- **Frontend**: HTML, CSS, JavaScript, Flutter, Dart
-- **Backend**: PHP, MySQL
-- **Database**: MongoDB
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: PHP
+- **Database**:MySQL
 - **AI Framework**: AI-based recommendation system for personalized content
 - **Other Libraries/Tools**: bcrypt (for password hashing), Git (version control), GitHub (repository)
 
